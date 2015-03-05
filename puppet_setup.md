@@ -23,7 +23,7 @@
 
 - Puppet's main configuration is found in `/etc/puppet/puppet.conf`. It has three section [main], [agent], and [master]
 
-- Add `server=puppet.devops.com` in conf file
+- Add `server=puppet.devops.com` in `/etc/puppet/puppet.conf` file
 
 - Add DNS entry or manually add the hosts in `etc/hosts`
 
